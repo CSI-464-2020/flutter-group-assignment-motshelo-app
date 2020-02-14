@@ -1,4 +1,4 @@
-# kidnames_app
+# motshelo_app
 
 A new Flutter application.
 
